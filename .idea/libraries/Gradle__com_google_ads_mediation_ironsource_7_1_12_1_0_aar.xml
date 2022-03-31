@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:ironsource:7.1.12.1.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42e9609bdbb4af0aaafd1774df33f205/ironsource-7.1.12.1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e3e397b985488ff04c1cfdc7a5970a1/ironsource-7.1.12.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42e9609bdbb4af0aaafd1774df33f205/ironsource-7.1.12.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42e9609bdbb4af0aaafd1774df33f205/ironsource-7.1.12.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42e9609bdbb4af0aaafd1774df33f205/ironsource-7.1.12.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e3e397b985488ff04c1cfdc7a5970a1/ironsource-7.1.12.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e3e397b985488ff04c1cfdc7a5970a1/ironsource-7.1.12.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e3e397b985488ff04c1cfdc7a5970a1/ironsource-7.1.12.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/ironsource/7.1.12.1.0/9f8e0a57ad45a009ec9543b5c2075e7d75186400/ironsource-7.1.12.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

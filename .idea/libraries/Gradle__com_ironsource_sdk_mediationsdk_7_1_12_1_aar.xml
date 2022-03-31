@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ironsource.sdk:mediationsdk:7.1.12.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cb152f4171dc197d3d178c8f56196481/mediationsdk-7.1.12.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cb152f4171dc197d3d178c8f56196481/mediationsdk-7.1.12.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cb152f4171dc197d3d178c8f56196481/mediationsdk-7.1.12.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ca680b84faf646bff29b3135f9a6405/mediationsdk-7.1.12.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ca680b84faf646bff29b3135f9a6405/mediationsdk-7.1.12.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ca680b84faf646bff29b3135f9a6405/mediationsdk-7.1.12.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

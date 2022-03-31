@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.startapp:inapp-sdk:4.9.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f347f4ce5ec6116061adeaa4c0d9d52a/inapp-sdk-4.9.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0caf52843a47ec9a7c05be194a3856b8/inapp-sdk-4.9.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f347f4ce5ec6116061adeaa4c0d9d52a/inapp-sdk-4.9.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f347f4ce5ec6116061adeaa4c0d9d52a/inapp-sdk-4.9.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f347f4ce5ec6116061adeaa4c0d9d52a/inapp-sdk-4.9.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0caf52843a47ec9a7c05be194a3856b8/inapp-sdk-4.9.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0caf52843a47ec9a7c05be194a3856b8/inapp-sdk-4.9.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0caf52843a47ec9a7c05be194a3856b8/inapp-sdk-4.9.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.startapp/inapp-sdk/4.9.2/38cdc11153a7626e295398c4cfa93cc9356b6ded/inapp-sdk-4.9.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.startapp/inapp-sdk/4.9.2/cf4275b3e0557e0ad4c52b68953b729a37317e6c/inapp-sdk-4.9.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

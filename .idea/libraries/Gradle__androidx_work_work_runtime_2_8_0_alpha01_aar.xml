@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.work:work-runtime:2.8.0-alpha01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09f219ee526d19a8c7f8509c6365db40/work-runtime-2.8.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09f219ee526d19a8c7f8509c6365db40/work-runtime-2.8.0-alpha01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/09f219ee526d19a8c7f8509c6365db40/work-runtime-2.8.0-alpha01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8cca0a0a04d061f424fad6d5bbe52d1/work-runtime-2.8.0-alpha01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8cca0a0a04d061f424fad6d5bbe52d1/work-runtime-2.8.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8cca0a0a04d061f424fad6d5bbe52d1/work-runtime-2.8.0-alpha01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.work/work-runtime/2.8.0-alpha01/4e49bc2f2c53e59c2efdbfe864c76c7a361f725d/work-runtime-2.8.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
